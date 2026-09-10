@@ -1,3 +1,7 @@
+## Parcours français
+
+[Six chapitres pour lire Winterfell](docs/fr/README.md) : trace Fibonacci, contraintes AIR, engagements, FRI et limites. Documentation du fork ; aucun changement cryptographique ni test exécuté pour ce parcours.
+
 # Winterfell 🐺
 
 <a href="https://github.com/novifinancial/winterfell/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
